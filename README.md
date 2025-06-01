@@ -1,6 +1,7 @@
 ---
+---
 
-```markdown
+````markdown
 # scripts
 
 Repositorio de utilidades y scripts Bash reutilizables para automatización, administración y solución de problemas comunes en sistemas Linux/Unix.
@@ -40,6 +41,7 @@ log_warning "Mensaje de advertencia"
 log_error "Mensaje de error"
 log_critical "Mensaje crítico"
 ```
+````
 
 Consulta el script [`prueba_logging.sh`](./prueba_logging.sh) para ver un ejemplo completo de integración.
 
