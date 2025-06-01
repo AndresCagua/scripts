@@ -1,0 +1,5 @@
+[2025-06-01 17:35:23] [DEBUG] Esto es un mensaje de depuración (debug). 
+[2025-06-01 17:35:23] [INFO] Esto es un mensaje informativo
+[2025-06-01 17:35:23] [WARNING] Esto es un mensaje de advertencia 
+[2025-06-01 17:35:23] [ERROR] Esto es un mensaje de error 
+[2025-06-01 17:35:23] [CRITICAL] Esto es un mensaje CRITICO

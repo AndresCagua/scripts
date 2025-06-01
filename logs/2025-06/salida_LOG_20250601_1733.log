@@ -1,0 +1,4 @@
+[2025-06-01 17:33:47] [INFO] Esto es un mensaje informativo
+[2025-06-01 17:33:47] [WARNING] Esto es un mensaje de advertencia 
+[2025-06-01 17:33:47] [ERROR] Esto es un mensaje de error 
+[2025-06-01 17:33:47] [CRITICAL] Esto es un mensaje CRITICO
